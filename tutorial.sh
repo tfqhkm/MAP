@@ -1,0 +1,13 @@
+# PRESS (a) TO ZOOM
+
+# PRESS (z) TO UNZOOM
+
+# TEKAN (a) UNTUK ZOOM
+
+# TEKAN (z) UNTUK KELUAR ZOOM
+
+# TEKAN (ctrl) (+) (ctrl) (c) DUA KALI UNTUK KELUAR
+
+# SELAMAT MENCUBA
+
+#BYE
